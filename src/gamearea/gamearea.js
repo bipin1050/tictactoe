@@ -5,7 +5,7 @@ const Gamearea = () => {
   
   return (
     <div className="bg-gray-600">
-      <div className="w-[22%] mx-auto py-24">
+      <div className="w-[340px] mx-auto py-24">
         <Board />
       </div>
     </div>
